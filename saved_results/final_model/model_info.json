@@ -1,0 +1,6 @@
+{
+  "model_name": "vinai/phobert-base",
+  "num_labels": 3,
+  "device": "cpu",
+  "architecture": "RobertaForSequenceClassification"
+}
