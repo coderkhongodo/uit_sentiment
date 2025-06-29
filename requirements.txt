@@ -1,0 +1,30 @@
+# Core ML frameworks
+torch==2.1.0
+transformers==4.35.0
+datasets==2.14.0
+
+# Data processing
+numpy==1.24.3
+pandas==2.0.3
+scikit-learn==1.3.0
+
+# Visualization
+matplotlib==3.7.2
+seaborn==0.12.2
+
+# Progress tracking
+tqdm==4.66.1
+
+# Jupyter notebooks
+ipywidgets==8.1.1
+jupyter==1.0.0
+
+# Web framework (optional)
+flask==2.3.3
+
+# Vietnamese NLP (optional)
+vncorenlp==1.0.3
+
+# Additional utilities
+pillow==10.0.0
+requests==2.31.0 
