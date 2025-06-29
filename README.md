@@ -21,7 +21,7 @@ A high-performance Vietnamese sentiment analysis system using PhoBERT, achieving
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/uit_SentimentAnalysis.git
+git clone https://github.com/coderkhongodo/uit_sentiment.git
 cd uit_SentimentAnalysis
 
 # Install dependencies
@@ -181,7 +181,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-If you have any questions or suggestions, feel free to open an issue or contact the maintainers.
+**Author**: Huynh Hly Tan Khoa  
+**Email**: [huynhhlytankhoa@gmail.com](mailto:huynhhlytankhoa@gmail.com)
+
+If you have any questions or suggestions, feel free to open an issue or contact me directly via email.
 
 ---
 
