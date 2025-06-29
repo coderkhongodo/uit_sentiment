@@ -1,0 +1,16 @@
+{
+    "model_name": "vinai/phobert-base",
+    "model_type": "phobert",
+    "task": "sentiment_analysis",
+    "num_labels": 3,
+    "labels": [
+        "negative",
+        "neutral",
+        "positive"
+    ],
+    "max_length": 256,
+    "learning_rate": 2e-5,
+    "batch_size": 16,
+    "epochs": 3,
+    "warmup_steps": 500
+}
