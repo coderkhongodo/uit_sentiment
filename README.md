@@ -436,14 +436,6 @@ chmod +x start.sh
 ```
 
 ### Production Deployment
-
-#### Docker Deployment
-```bash
-# Build and run with Docker Compose
-docker-compose up --build
-```
-
-#### Manual Deployment
 ```bash
 # Backend
 cd backend
