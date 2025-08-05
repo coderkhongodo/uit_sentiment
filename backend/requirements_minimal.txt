@@ -1,0 +1,13 @@
+# Minimal requirements for backend to run
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+aiosqlite
+torch
+transformers
+numpy
+pandas
+scikit-learn
+tqdm
+requests
